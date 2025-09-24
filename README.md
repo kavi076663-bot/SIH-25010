@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:24/09/25
+## Register Number:25018305
+## Name:v.kaviarasu
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -36,33 +36,39 @@ Supporting Data
 
 ## Problem Creater's Organization
 Government of Punjab
-
+a
 ## Theme
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+<p>our project aim to design and develope the ai crop advisor application that give the personalized advice to small and marginal farmer.this application gives the advice to the farmer about soil type,weather condition,crop history.this application also explain the information to the former with understandable  language.help of this application the farmer can improve the crop yeild and reduce the input cost.it  is former friendly tool the give right advice at right time.this application also provide the market price of the crops.with the help of the price detail to increase the profit.this application also provide the voice support for low liteaterate user.
+</p>
+
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+data collection(soil sensor,weather apis,crop history).
+machine learning models like crop recommendation model,fertilizer optimization model.
+application development:
+      offline capability; it ensure the app work in offline
+      
+<img><img width="853" height="1280" alt="image" src="https://github.com/user-attachments/assets/efe3afb1-ae1c-4eed-bd57-c429382d813f" />
+
+
+
+      
+    
+
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+It's possible to build a smart crop advisory system. The technology exists to create a simple mobile app that gives farmers advice. You can use data from weather APIs and other sources, and design the app to be easy for anyone to use, even with limited digital skills.
+The project is worth doing. There is a great need for it among small farmers in India. The system would help them increase their income and protect the environment, making it a valuable and sustainable solution
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+impact: the ai crop advisory application has a deep impact by making farming more efficient,profitable and sustainable.it provide farmer with the knowledge and tool to over come traditional farming challenges
+benifits:financial benifits(more money for farmer),environmental benfits(protect the land,clener farming),social benefit(improve life,better food supply)
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+chatgpt
+googlegemini
+help of this ai
+i got more ideas
